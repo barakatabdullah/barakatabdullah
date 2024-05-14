@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Abdullah Barakat
+#### I'm a self-taught passionate FrontEnd developer from Yemen
+![I'm a self-taught passionate FrontEnd developer from Yemen](https://media.licdn.com/dms/image/C4D1BAQFXhfCzmQPaYA/company-background_10000/0/1598978682946/hello_world_here_cover?e=2147483647&v=beta&t=RLhxmi91lNCJnwQ0x29TKp9a6ist8oDFNOu0dkDwobQ)
 
-<!--
-**snacomds/snacomds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills and Experience**
+⚛ React
+⚡Vue
+📱 flutter
+💻 HTML, CSS, JS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snacomds)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=snacomds)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snacomds)](https://github.com/anuraghazra/github-readme-stats)
+
