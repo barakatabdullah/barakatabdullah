@@ -3,6 +3,7 @@
 ![I'm a self-taught passionate FrontEnd developer from Yemen](https://media.licdn.com/dms/image/C4D1BAQFXhfCzmQPaYA/company-background_10000/0/1598978682946/hello_world_here_cover?e=2147483647&v=beta&t=RLhxmi91lNCJnwQ0x29TKp9a6ist8oDFNOu0dkDwobQ)
 
 **Skills and Experience**
+
 ⚛ React
 
 ⚡Vue
@@ -13,7 +14,6 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snacomds)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=snacomds)](https://github.com/ryo-ma/github-profile-trophy)
 
