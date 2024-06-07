@@ -4,8 +4,11 @@
 
 **Skills and Experience**
 ⚛ React
+
 ⚡Vue
+
 📱 flutter
+
 💻 HTML, CSS, JS
 
 
