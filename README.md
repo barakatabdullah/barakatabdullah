@@ -19,7 +19,8 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=snacomds)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=barakatabdullah)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snacomds)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barakatabdullah)](https://github.com/anuraghazra/github-readme-stats)
 
